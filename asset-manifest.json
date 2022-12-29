@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JohanUnal29/navbar-react.git/static/css/main.a6b2082a.css",
+    "main.js": "/JohanUnal29/navbar-react.git/static/js/main.680fb3d7.js",
+    "static/js/787.7d1d4ce5.chunk.js": "/JohanUnal29/navbar-react.git/static/js/787.7d1d4ce5.chunk.js",
+    "index.html": "/JohanUnal29/navbar-react.git/index.html",
+    "main.a6b2082a.css.map": "/JohanUnal29/navbar-react.git/static/css/main.a6b2082a.css.map",
+    "main.680fb3d7.js.map": "/JohanUnal29/navbar-react.git/static/js/main.680fb3d7.js.map",
+    "787.7d1d4ce5.chunk.js.map": "/JohanUnal29/navbar-react.git/static/js/787.7d1d4ce5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6b2082a.css",
+    "static/js/main.680fb3d7.js"
+  ]
+}
